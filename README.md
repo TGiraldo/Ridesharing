@@ -1,5 +1,6 @@
 # Ridesharing
-##About Divvy
+
+## About Divvy
 Divvy is Chicago's bike share system across Chicago. Divvy provides residents and visitors with a convenient, fun and affordable transportation option for getting around and exploring Chicago.
 
 For this project, I was interested in exploring operational questions that can help improve efficiency and strategic planning of fleet throughout the city of Chicago. 
