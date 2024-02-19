@@ -11,6 +11,6 @@ The goal of this task is to analyze ride data to in order to derive insights abo
 This data set was retrieved from the official website and consists of trip data only for the month of November 2023. 
 
 ## Folders
-01 Data: Contains the raw data set derived from the official Divvy Bikes website
-02 Scripts: Contains all the Python coding involved for the entire analysis process
-03 Visualizations: Contains link to the Tableau storyboard
+-01 Data: Contains the raw data set derived from the official Divvy Bikes website
+-02 Scripts: Contains all the Python coding involved for the entire analysis process
+-03 Visualizations: Contains link to the Tableau storyboard
